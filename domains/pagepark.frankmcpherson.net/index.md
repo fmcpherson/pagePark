@@ -20,16 +20,20 @@ selected the smallest Basic container.
 
 ## Note About OPML Files
 
-One of the features of pagePark is that it knows how to serve a variety of different file formats. For example, I am writing and storing this page in markdown but if you view source you will see the HTML code that pagePark has generated so that this page displays in you we browser.
+One of the features of pagePark is that it knows how to serve a variety of different file formats. For example, I am writing and storing this page in markdown but if you view source you will see the HTML code that pagePark has generated so that this page displays in your web browser nicely.
 
-Pagepark also does this the outline file format, OPML. Unfortunately, if you try to open one from this server, such as [http://pagepark.frankmcpherson.net/test.opml](http://pagepark.frankmcpherson.net/test.opml) find that the page does not display in your web browser.
+Pagepark also does this for the outline file format, OPML. Unfortunately, if you try to open one from this server, such as [http://pagepark.frankmcpherson.net/test.opml](http://pagepark.frankmcpherson.net/test.opml) you will find that the page does not display in your web browser.
 
-The browser co's enforcement of HTTPS is rearing it's head here.  If you view source you see Pagepark is dynamically generating HTML for OPML files that includes Javascript sources from "non-secure" HTTP sites, and browsers are no longer displaying non-secure content by default. Chrome, Edge, and Firefox do not provide an obvious way for a user tell it to display non-secure content. 
+The browser co's enforcement of HTTPS is rearing its head here.  If you view source you see Pagepark is dynamically generating HTML for OPML files that includes Javascript sources from "non-secure" HTTP sites, and browsers are no longer displaying non-secure content by default. Chrome, Edge, and Firefox do not provide an obvious way for a user tell it to display non-secure content. 
 
 For now, in Chrome, one can click the lock to the left of the URL, then click Site settings, scroll down to Insecure content and change it from Block(default), to Allow. At this the browser will display a "Not secure" Indicator to the left of the URL. Most likely Google will remove this ability in the future and the other browser companies will follow suite.
 
 ## Now what?
 
-Map your own domain or subdomain to the application by creating a CNAME record with your DNS provider. Finally, create a directory that has the sane name as the URL you just configured via DNS in the domains directory of your repo, and put a index.md file in it to display a page.
+Map your own domain or subdomain to the application by creating a CNAME record with your DNS provider. Finally, create a directory that has the same name as the URL you just configured via DNS in the domains directory of your repo, and put an index.md file in it to display a page.
 
 At this point you have a web server deployed that can host your content. To add content simply create files using any one of the formats that pagePark can render into your domains folder. 
+
+Finally, in terms of cost, the lowest cost option is $5 per month for 512MB of RAM and 1 vCPU, which should be plenty of capacity unless get slash-dotted. With this plan you also get 40 GB of outbound transfer and 400 build minutes. Digital Ocean calls this the prototype option, "production" applications may warrant more outbound data transfer and build minutes that will cost $12 per month. 
+
+BTW, if you are looking to host a static site, basically HTML files that you build by hand, you can do so for free (up to three) on Digital Ocean.
