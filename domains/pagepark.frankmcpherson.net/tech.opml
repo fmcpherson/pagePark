@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Technology That I Use</title>
+		<dateCreated>Sat, 01 Aug 2020 19:23:48 GMT</dateCreated>
+		<urlInstant>http://instantoutliner.com/ko</urlInstant>
+		<urlPublic>http://storage2.littleoutliner.com/users/frankm/myOutlines/techThatIUse.opml</urlPublic>
+		<longTitle>Technology That I Use</longTitle>
+		<description>Here is a summary of the technology products that Frank McPherson uses every day.</description>
+		<dateModified>Thu, 15 Jul 2021 13:37:12 GMT</dateModified>
+		<expansionState>2</expansionState>
+		<lastCursor>4</lastCursor>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://storage2.littleoutliner.com:1242/</urlUpdateSocket>
+		</head>
+	<body>
+		<outline text="About This Site" created="Fri, 16 Oct 2020 13:33:17 GMT" collapse="false">
+			<outline text="I've created this site to provide a simple index of the hardware and software that I most use every day. From time to time friends will ask of what I use and I can direct them here. " created="Fri, 16 Oct 2020 13:33:42 GMT"/>
+			<outline text="I built and maintain this site as an outline in &lt;a href=&quot;http://littleoutliner.com&quot;&gt;Little Outliner.&lt;/a&gt;" created="Fri, 16 Oct 2020 13:45:18 GMT"/>
+			</outline>
+		<outline text="Tech On Deck" created="Mon, 24 Aug 2020 14:07:30 GMT" collapse="true">
+			<outline text="In this section are items that I recently purchased or plan to purchase and am in the process of incorporating in to my every day." created="Mon, 24 Aug 2020 14:07:42 GMT"/>
+			<outline text="I am &lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/wear-os-watches-with-qualcomm-4100-processor&quot;&gt;keeping my eye on&lt;/a&gt; &lt;a href=&quot;https://www.theverge.com/2020/6/30/21307368/qualcomm-snapdragon-4100-google-wear-os-smartwatch-wearables-faster-battery-life&quot;&gt;Wear OS watches that have the new Qualcomm chip&lt;/a&gt;, but I want one with hardware buttons like the Fossil Sport that I am currently wearing." created="Fri, 20 Nov 2020 16:48:09 GMT"/>
+			<outline text="I recently discovered &lt;a href=&quot;https://apps.apple.com/us/app/moleskine-journey/id1489704689#?platform=ipad&quot;&gt;Moleskine Journey&lt;/a&gt;, so I am trying it out for my habit tracking, journaling, and project management." created="Thu, 29 Apr 2021 14:00:29 GMT"/>
+			</outline>
+		<outline text="Tech Projects" created="Wed, 16 Dec 2020 14:53:39 GMT" collapse="true">
+			<outline text="Click &lt;a href=&quot;http://my.this.how/frankm/myTechProjects.opml&quot;&gt;here&lt;/a&gt; to see my work in progress notes about my tech projects." created="Wed, 16 Dec 2020 14:53:47 GMT"/>
+			</outline>
+		<outline text="Every Day Tech" created="Fri, 17 Jul 2020 13:32:02 GMT" collapse="true">
+			<outline text="Google Pixel 4a" created="Mon, 24 Aug 2020 14:08:33 GMT" collapse="true">
+				<outline text="Smartphone, runs Android 11. Bought in August, 2020. The best phone I've owned yet. I like how it feels and I really like the screen and battery life." created="Thu, 03 Sep 2020 17:23:02 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/pixel-4a&quot;&gt;Wiki page&lt;/a&gt;" created="Thu, 03 Sep 2020 17:22:50 GMT"/>
+				<outline text="Ongoing impressions" created="Fri, 30 Apr 2021 14:31:45 GMT" collapse="true">
+					<outline text="I really like how this phone feels in my hand, which I think is mostly due to the size, rounded corners, and the matte finish on the back. " created="Fri, 30 Apr 2021 14:31:52 GMT"/>
+					<outline text="Battery life seems to have actually improved, and some days I am seeing screen-off consumption at less than 2% per hour. In one instance the battery lasted 34 hours, draining from 100% to 20%. " created="Fri, 30 Apr 2021 14:33:14 GMT"/>
+					</outline>
+				<outline text="First impressions" created="Sat, 29 Aug 2020 18:05:03 GMT" collapse="true">
+					<outline text="Now that I have a fully functional device, it's time to  track first impressions" created="Sat, 29 Aug 2020 18:05:14 GMT"/>
+					<outline text="Really like the physical size. I don't like large phones and so I have been hanging on to the Pixel 2. This phone has the same physical dimensions but a slightly larger screen." created="Sat, 29 Aug 2020 18:05:42 GMT"/>
+					<outline text="I am surprised that the 4a feels to be as heavy as the Pixel 2. Because it has a plastic case, I expected the 4a to feel lighter. I guess the weight is due to having a larger battery, which is a good trade-off." created="Sat, 29 Aug 2020 18:06:12 GMT"/>
+					<outline text="Battery discharge rate with screen off per AccuBattery Pro is at 2%, which is considerably better than the Pixel 2 which gets 3.5% at best. I have &quot;Hey Google&quot; and always on display enabled. I've added my work email (Outlook/Exchange) and that has tipped discharge rate up to 2.5%" created="Mon, 31 Aug 2020 01:37:10 GMT"/>
+					<outline text="Here is &lt;a href=&quot;https://frankmcpherson.blog/2020/08/29/taken-with-the.html&quot;&gt;a picture&lt;/a&gt; I took this morning. I am not a photography aficionado, I just want a camera that takes good pictures. I am not yet convinced the camera in the 4a is vastly improved over the Pixel 2. " created="Sat, 29 Aug 2020 18:12:29 GMT"/>
+					<outline text="I bought the Google fabric case and put it on for a day but took it off as I think it adds a little too much bulk. Besides, there is something pleasing  with how the naked Pixel 4a feels in my hand. It reminds me a bit of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Palm_Pre&quot;&gt;Palm Pre&lt;/a&gt;." created="Mon, 31 Aug 2020 01:38:44 GMT"/>
+					<outline text="I am finding that physical size of the Pixel 4a is perfect for me. What I am surprised by is what a difference it makes for the 4a to be slightly narrower than the Pixel 2. I don't think I want a screen larger than the 5.81 inch screen in the 4a. I grudgingly carried the Nexus 6P, which was huge, for the sake of having a pure Android phone, and I really don't want to go back to that. There is such a thing as a smartphone that is too large and too small!" created="Thu, 03 Sep 2020 17:17:18 GMT"/>
+					</outline>
+				<outline text="First unit mobile radio failure" created="Mon, 24 Aug 2020 14:31:51 GMT" collapse="true">
+					<outline text="I ordered the Pixel 4a on the day it was announced, it will replace the Google Pixel 2" created="Mon, 24 Aug 2020 14:08:38 GMT"/>
+					<outline text="I received the Pixel 4a on August 21, 2020. Unfortunately it does not connect to the AT&amp;T network. I just get &quot;No Service&quot;" created="Mon, 24 Aug 2020 14:09:09 GMT"/>
+					<outline text="I went to the local AT&amp;T store and got a new SIM, which did not fix the problem. Person in store created a new APN entry that also did not fix the problem." created="Mon, 24 Aug 2020 14:10:08 GMT"/>
+					<outline text="I contacted Google Support via chat, a support ticket was created and it has been escalated to level 2 support, but the turnaround is 1-2 business days, so I am still waiting for next steps." created="Mon, 24 Aug 2020 14:11:06 GMT"/>
+					<outline text="I observe that on my Pixel 2 there are options for preferred network type and VoLTE that do not appear on the Pixel 4a. It looks like the SIM is being read (because it displays the phone number) but the connection is not being made to the network to know whether to display these options." created="Mon, 24 Aug 2020 14:17:12 GMT"/>
+					<outline text="The settings versions are different between the Pixel 2 and 4a, although I have the Android 11 beta on the Pixel 2 and Android 10 on the 4a. On Monday August 24, 2020 I installed the Android 11 beta on the Pixel 4a, the settings changed as indicated below" created="Mon, 24 Aug 2020 14:20:27 GMT">
+						<outline text="Pixel 2 settings att_us-20000000083.21 " created="Mon, 24 Aug 2020 14:21:05 GMT"/>
+						<outline text="Pixel 4a settings att_us-15000000081.22" created="Mon, 24 Aug 2020 14:21:15 GMT"/>
+						<outline text="Pixel 4a settings with Android 11 beta att_us-20000000087.25" created="Mon, 24 Aug 2020 22:44:44 GMT"/>
+						</outline>
+					<outline text="After observing that the Mobile Radio Power does not remain on, took screen shots and sent to Google as attachment to my support ticket. It looks to me like something is physically wrong with the mobile radio and wouldn't work for any phone network. The phone needs to be replaced." created="Tue, 25 Aug 2020 15:39:13 GMT"/>
+					<outline text="Google Support has initiated an exchange. Waiting for the email to start the process. It is taking too much work for me to get customer service. " created="Wed, 26 Aug 2020 12:47:18 GMT"/>
+					<outline text="Replacement unit ordered." created="Wed, 26 Aug 2020 20:31:43 GMT"/>
+					<outline text="Replacement unit out for delivery." created="Fri, 28 Aug 2020 14:40:58 GMT"/>
+					<outline text="Replacement unit delivered to wrong address in my condominium. Found it at a unit where it was delivered.  " created="Fri, 28 Aug 2020 19:55:09 GMT"/>
+					<outline text="Installed SIM during the setup process and it connected to AT&amp;T using our microcell. Success!" created="Fri, 28 Aug 2020 19:56:23 GMT"/>
+					<outline text="Original unit returned." created="Thu, 03 Sep 2020 17:24:29 GMT"/>
+					<outline text="My troubleshooting steps" created="Mon, 24 Aug 2020 14:12:01 GMT" collapse="true">
+						<outline text="Replaced SIM" created="Mon, 24 Aug 2020 14:12:08 GMT"/>
+						<outline text="Factory reset but did not restore from backup" created="Mon, 24 Aug 2020 14:12:14 GMT"/>
+						<outline text="Factory reset from recovery mode" created="Mon, 24 Aug 2020 14:12:39 GMT"/>
+						<outline text="Associated to a Google account I've never used with Android" created="Mon, 24 Aug 2020 14:12:58 GMT"/>
+						<outline text="Captured many screen shots and sent to Google" created="Mon, 24 Aug 2020 14:13:35 GMT"/>
+						<outline text="I checked, but I can not enroll the Pixel 4a in to the Android 11 beta. I am wondering whether I will need the AT&amp;T settings configuration in Android 11 to get the phone to work." created="Mon, 24 Aug 2020 14:30:30 GMT"/>
+						<outline text="Learned that the Pixel 4a can now be enrolled in the Android 11 beta, I opted in the device and upgraded the phone but that did not fix the problem." created="Mon, 24 Aug 2020 22:00:50 GMT"/>
+						<outline text="Accessed the phone configuration by entering *#*#4636#*#* in the phone app dial pad and saw that Mobile Radio Power is off. Turned on but after several minutes the toggle would switch back to off." created="Tue, 25 Aug 2020 15:36:49 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="iPad Mini 5th generation" created="Fri, 17 Jul 2020 13:33:07 GMT" collapse="true">
+				<outline text="Tablet, runs iPadOS 14. You see I use three tablets, but if you forced me to only use one, this is the it. I use this tablet for hours every single day." created="Fri, 17 Jul 2020 13:35:58 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/ipad-mini-5&quot;&gt;Wiki page&lt;/a&gt;" created="Mon, 03 Aug 2020 19:22:12 GMT"/>
+				</outline>
+			<outline text="iPad Air Gen4" created="Tue, 20 Oct 2020 15:59:39 GMT" collapse="true">
+				<outline text="Wiki page" created="Fri, 30 Oct 2020 13:26:07 GMT" type="link" url="https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/ipad-air"/>
+				<outline text="Ongoing Impressions" created="Thu, 17 Dec 2020 16:41:39 GMT" collapse="true" flBulletedSubs="true">
+					<outline text="I recently bought the Apple Magic Keyboard for the iPad and am really happy with the combination of it and  the iPad Air. I do think that if I had to, I could use this combination as my only personal computer. It may seem like a small thing, but what makes the difference for me is the ability to easily remove the iPad from the case so that I can quickly transition from landscape laptop mode to portrait tablet mode. The magnets make all the difference." created="Thu, 17 Dec 2020 16:41:46 GMT"/>
+					<outline text="I've discovered that the Yubikey 5C does not work with the iPad Air 4, which I find odd. Unfortunately that means I can't use it to log in to the AWS console using my credentials that I've configured to use the Yubikey for MFA. I did create a credential that uses the Yubico authenticator on the Pixel 4a that in turn requests the Yubikey 5C." created="Fri, 30 Apr 2021 14:36:36 GMT"/>
+					</outline>
+				<outline text="First Impressions" created="Fri, 30 Oct 2020 13:12:18 GMT" flBulletedSubs="true" collapse="true">
+					<outline text="The green is subtle. If you put it under incandescent lighting it almost looks golden. Nice size and solid feel and I like the larger screen. It looks nearly the same size as the iPad Pro 10.5 and I think it will fit in the Pad &amp; Quill Oxford case for the 10.5." created="Fri, 30 Oct 2020 13:12:28 GMT"/>
+					<outline text="I've not noticed any difference with the screen refresh in comparison to the iPad Pro 10.5 that I have been using. " created="Fri, 30 Oct 2020 13:14:01 GMT"/>
+					<outline text="I like the Apple Pencil 2 better than the original Pencil because it feels more like an analog pencil. " created="Fri, 30 Oct 2020 13:15:13 GMT"/>
+					<outline text="&lt;a href=&quot;https://frankmcpherson.blog/2020/10/30/today-is-the.html&quot;&gt;The placement of Touch ID at the top&lt;/a&gt; with the resume button is going to take time getting used to. I keep reaching for the home button at the bottom. " created="Fri, 30 Oct 2020 13:21:54 GMT"/>
+					<outline text="Found a casualty of moving to the Air, I cannot install the myTWiT app that I use on the Pro 10.5 to watch TWiT video podcasts. I guess this was a legacy 32-bit app that runs fine but was pulled from the App Store so now I can't install it on the Air. " created="Fri, 30 Oct 2020 17:25:39 GMT"/>
+					<outline text="Paired the Logitech MX Keyboard and MX Master mouse to the iPad Air, and using the keyboard and mouse to edit this file." created="Tue, 03 Nov 2020 19:59:06 GMT"/>
+					</outline>
+				<outline text="Ordering " created="Fri, 30 Oct 2020 13:11:54 GMT" collapse="true" flBulletedSubs="true">
+					<outline text="Decided to order after determining how much I will get for trade-in of the 10.5-inch iPad Pro." created="Tue, 20 Oct 2020 15:59:52 GMT"/>
+					<outline text="Ordered the 64GB + WiFi version in green on October 19, 2020" created="Tue, 20 Oct 2020 16:00:52 GMT"/>
+					<outline text="Ordered the second generation Apple Pencil on October 20, 2020 and it shipped from China on October 22 and arrived on October 26." created="Mon, 26 Oct 2020 13:10:54 GMT"/>
+					<outline text="Received the iPad Air on October 29, 2020" created="Fri, 30 Oct 2020 13:11:22 GMT"/>
+					</outline>
+				</outline>
+			<outline text="Google Pixelbook" created="Fri, 17 Jul 2020 13:32:42 GMT" collapse="true">
+				<outline text="Notebook PC, runs Chrome OS. This is my personal &quot;work horse&quot; PC. I love the physical size, the keyboard, and the display. It also runs Debian Linux and Android. " created="Fri, 17 Jul 2020 13:34:55 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/google-pixelbook&quot;&gt;Wiki page&lt;/a&gt;" created="Mon, 03 Aug 2020 19:16:28 GMT"/>
+				</outline>
+			<outline text="Fossil Sport" created="Fri, 17 Jul 2020 13:32:49 GMT" collapse="true">
+				<outline text="Smartwatch, runs Wear OS. It is smaller than other Wear OS watches I have worn and I like the to hardware buttons." created="Fri, 17 Jul 2020 13:35:17 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/fossil-sport-smartwatch&quot;&gt;Wiki page&lt;/a&gt;" created="Mon, 03 Aug 2020 19:14:19 GMT"/>
+				</outline>
+			<outline text="Lenovo Duet" created="Fri, 17 Jul 2020 13:33:02 GMT" collapse="true">
+				<outline text="2-in-1, runs Chrome OS. This is my newest &quot;tablet&quot; and I am using it as my personal note taking device. Pairs nicely with Roam. " created="Fri, 17 Jul 2020 13:35:37 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/lenovo-duet&quot;&gt;Wiki page&lt;/a&gt;" created="Mon, 03 Aug 2020 19:20:54 GMT"/>
+				</outline>
+			<outline text="Raspberry Pis" created="Fri, 17 Jul 2020 14:18:19 GMT" collapse="true" flBulletedSubs="true">
+				<outline text="&lt;b&gt;Deskclock&lt;/b&gt;: Raspberry Pi 3 connected to a small monitor, runs &lt;a href=&quot;https://dakboard.com&quot;&gt;DAKboard&lt;/a&gt; and functions as a desk clock that shows my calendar, the weather, and current news headlines from CNN." created="Fri, 16 Oct 2020 13:20:51 GMT"/>
+				<outline text="&lt;b&gt;Tyrion&lt;/b&gt;: Raspberry Pi 3b+ is my utility server that fetches backup files of my blog and wikis and archives them to network attached storage. Tyrion hosts a Tiddlywiki that I use to store information about the house." created="Fri, 16 Oct 2020 13:21:49 GMT"/>
+				<outline text="&lt;b&gt;Daenerys&lt;/b&gt;: Raspberry Pi 4 I use for my personal desktop computer during the work day." created="Fri, 16 Oct 2020 13:23:18 GMT"/>
+				<outline text="&lt;b&gt;Arya&lt;/b&gt;: Raspberry Pi 4 that is configured to connect directly to my iPad and has a backup copy of our family wiki." created="Mon, 01 Feb 2021 14:55:03 GMT"/>
+				<outline text="In storage:" created="Mon, 01 Feb 2021 14:56:59 GMT">
+					<outline text="A Raspberry Pi 2, which is the first Pi I bought" created="Mon, 01 Feb 2021 14:57:04 GMT"/>
+					<outline text="A Raspberry Pi 3" created="Mon, 01 Feb 2021 14:57:18 GMT"/>
+					<outline text="Two Pi Zero Ws" created="Mon, 01 Feb 2021 14:57:27 GMT"/>
+					</outline>
+				</outline>
+			<outline text="Mintbox" created="Tue, 20 Apr 2021 00:32:14 GMT" collapse="true" flBulletedSubs="true">
+				<outline text="Bought via Amazon January, 2017" created="Tue, 20 Apr 2021 00:44:38 GMT"/>
+				<outline text="Product page &lt;a href=&quot;https://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/&quot;&gt;link&lt;/a&gt;" created="Tue, 20 Apr 2021 00:44:57 GMT"/>
+				<outline text="Running Linux Mint Version 20" created="Tue, 20 Apr 2021 00:45:20 GMT"/>
+				<outline text="Currently running Nextcloud and Archivebox in a Docker containers. I also have it configured as a file server. I am backing up some directories on this server to a S3 bucket using restic." created="Tue, 20 Apr 2021 00:45:32 GMT"/>
+				</outline>
+			<outline text="Logitech MX Keys keyboard" created="Fri, 17 Jul 2020 13:33:23 GMT" collapse="true">
+				<outline text="&lt;a href=&quot;https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009294.html&quot;&gt;Link&lt;/a&gt; to vendor site" created="Wed, 14 Apr 2021 17:46:54 GMT"/>
+				<outline text="Wireless keyboard, connects to three devices. I have it connected to my work PC and the Lenovo Duet, both that I use every work day." created="Fri, 17 Jul 2020 13:36:27 GMT"/>
+				<outline text="This is the best external keyboard that I have ever used, very solid and feels like a really good notebook keyboard." created="Thu, 20 Aug 2020 13:01:43 GMT"/>
+				</outline>
+			<outline text="Logitech MX Master 3 mouse" created="Fri, 17 Jul 2020 13:33:32 GMT" collapse="true">
+				<outline text="&lt;a href=&quot;https://www.logitech.com/en-us/products/mice/mx-master-3.html&quot;&gt;Link&lt;/a&gt; to vendor site" created="Wed, 14 Apr 2021 17:48:11 GMT"/>
+				<outline text="Wireless mouse, connects to three devices, like the keyboard, I have this connected to my work PC and Lenovo Duet. It feels really solid, not plasticy like other mice I've used. My one complaint is that the switch to move between devices is on the bottom, so I have to lift the mouse to switch it between PC and Duet." created="Fri, 17 Jul 2020 13:36:49 GMT"/>
+				</outline>
+			<outline text="Jabra Evolve 65 MS Wireless Headset" created="Fri, 17 Jul 2020 14:17:00 GMT" collapse="true">
+				<outline text="Includes link 370 USB adapter, connected to my work PC. I use this headset every work day for Teams calls and they are paired to my work cell phone. They are over the ear, padded, and very comfortable. I used to use a wired headset and now I wonder why I waited so long to get a wireless headset." created="Fri, 17 Jul 2020 14:17:14 GMT"/>
+				</outline>
+			<outline text="Jabra Evolve 65t Wireless Headphones" created="Fri, 17 Jul 2020 14:17:41 GMT" collapse="true">
+				<outline text="I have these paired with my Pixel 4a. They are tight in my ears so they don't move and they sound great. However might be too tight to wear for long time." created="Fri, 16 Oct 2020 13:15:44 GMT"/>
+				</outline>
+			<outline text="Apple Airpods" created="Fri, 16 Oct 2020 13:14:57 GMT" collapse="true">
+				<outline text="Bought October, 2020" created="Mon, 19 Oct 2020 18:26:36 GMT"/>
+				<outline text="I wasn't expecting to, but I bought a pair of Apple Airpods on Amazon Prime day. They are paired with my iPads, and I am surprised by how well the fit in my ears." created="Fri, 16 Oct 2020 13:14:02 GMT"/>
+				<outline text="Apple really has nailed the process for pairing their wireless accessories with their computing devices. The only downside is that I can't have the Airpods connect with the Pixel 4a at the same time as they connect to the iPads." created="Mon, 19 Oct 2020 18:27:00 GMT"/>
+				</outline>
+			<outline text="Apple iPad Magic Keyboard" created="Wed, 25 Nov 2020 19:33:36 GMT" collapse="true">
+				<outline text="Purchased on November 25, 2020" created="Wed, 25 Nov 2020 19:37:55 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/ipad-magic-keyboard&quot;&gt;Wiki page&lt;/a&gt;" created="Wed, 25 Nov 2020 19:38:15 GMT"/>
+				<outline text="&lt;a href=&quot;https://frankmcpherson.blog/2020/11/25/i-ordered-an.html&quot;&gt;First Impressions&lt;/a&gt;" created="Wed, 25 Nov 2020 19:42:23 GMT"/>
+				</outline>
+			<outline text="BenQ EW327OU 32&quot; Monitor" created="Tue, 30 Mar 2021 19:49:15 GMT" collapse="true">
+				<outline text="Received the &lt;a href=&quot;https://www.benq.com/en-us/monitor/entertainment/ew3270u.html&quot;&gt;BenQ EW327OU 32&quot; HDR LED 4K UHD FreeSync Monitor&lt;/a&gt; on March 30, 2021" created="Thu, 18 Mar 2021 21:09:09 GMT"/>
+				<outline text="Installed Windows 10 PowerToys and configured FanzyZones to control window layout. " created="Tue, 30 Mar 2021 19:50:20 GMT"/>
+				<outline text="I've settled on running with the Blue light sensor automatically on and HDR off." created="Fri, 30 Apr 2021 14:42:11 GMT"/>
+				</outline>
+			</outline>
+		<outline text="Every Day Apps" created="Fri, 16 Oct 2020 13:32:22 GMT" collapse="true">
+			<outline text="Google Chrome" created="Fri, 16 Oct 2020 13:35:33 GMT" collapse="true">
+				<outline text="Most of the apps that you see in this list are web applications, which makes the web browser basically my desktop or virtual machine. I use ChromeOS and Android and therefore Chrome is the logical choice to be my preferred browser." created="Thu, 22 Oct 2020 21:04:10 GMT"/>
+				</outline>
+			<outline text="Microblog" created="Fri, 16 Oct 2020 13:38:23 GMT"/>
+			<outline text="River5" created="Fri, 16 Oct 2020 13:35:36 GMT"/>
+			<outline text="Radio3" created="Fri, 16 Oct 2020 13:35:53 GMT"/>
+			<outline text="LittleOutliner" created="Fri, 16 Oct 2020 13:36:00 GMT"/>
+			<outline text="Roam" created="Fri, 16 Oct 2020 13:36:03 GMT"/>
+			<outline text="OneNote" created="Fri, 16 Oct 2020 13:36:10 GMT"/>
+			<outline text="EverNote" created="Fri, 16 Oct 2020 13:36:11 GMT"/>
+			<outline text="Spark" created="Fri, 16 Oct 2020 13:36:30 GMT"/>
+			<outline text="Readwise" created="Fri, 16 Oct 2020 13:36:37 GMT"/>
+			<outline text="Moleskine Journey" created="Thu, 29 Apr 2021 13:27:59 GMT" collapse="true">
+				<outline text="&lt;a href=&quot;https://moleskinejourney.com/&quot;&gt;Moleskine Journey&lt;/a&gt; is a Personal Information Manager (PIM), that I am testing for goal, habit, mood tracking along with gratitude and freeform journaling. It has a Planner section that pulls from my Google Calendar and a Tasks and Projects sections.  Versions exist for iPadOS and Android and there is a web app. I signed up for a year subscription from my iPad. I try a lot of these apps so we will see how long I stick with this one. " created="Thu, 29 Apr 2021 13:28:14 GMT"/>
+				</outline>
+			</outline>
+		<outline text="Edge (Internet of Things)" created="Thu, 15 Jul 2021 13:29:02 GMT" collapse="true">
+			<outline text="Hue Hub" created="Thu, 15 Jul 2021 13:29:25 GMT"/>
+			<outline text="Hue Lights" created="Thu, 15 Jul 2021 13:29:29 GMT"/>
+			<outline text="Hue Switch" created="Thu, 15 Jul 2021 13:29:44 GMT"/>
+			<outline text="SmartThings Hub" created="Thu, 15 Jul 2021 13:29:47 GMT"/>
+			<outline text="Sensors" created="Thu, 15 Jul 2021 13:29:54 GMT"/>
+			<outline text="Smart Switches" created="Thu, 15 Jul 2021 13:30:37 GMT"/>
+			<outline text="Moisture Sensor" created="Thu, 15 Jul 2021 13:30:44 GMT"/>
+			</outline>
+		<outline text="Cloud Hosting" created="Fri, 30 Apr 2021 14:44:02 GMT" collapse="true">
+			<outline text="AWS" created="Fri, 30 Apr 2021 14:44:26 GMT">
+				<outline text="Hosting &lt;a href=&quot;https://frankm.org&quot;&gt;my profile page&lt;/a&gt; from a S3 bucket, which utilizes CloudFront for SSL." created="Fri, 30 Apr 2021 14:44:56 GMT"/>
+				<outline text="Two of my old blogs use S3 buckets to store content that is served from servers hosted on GCP" created="Fri, 30 Apr 2021 14:46:09 GMT"/>
+				<outline text="I backup some of my in-house data to a S3 bucket using restic" created="Fri, 30 Apr 2021 14:48:22 GMT"/>
+				</outline>
+			<outline text="Google Cloud " created="Fri, 30 Apr 2021 14:44:31 GMT">
+				<outline text="I use two VMs in GCP to host nodejs applications." created="Fri, 30 Apr 2021 14:48:58 GMT"/>
+				<outline text="One VM hosts an instance of &lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodeStorage&lt;/a&gt; used for &lt;a href=&quot;http://writing.frankmcpherson.org/&quot;&gt;a blog&lt;/a&gt; maintained using &lt;a href=&quot;https://github.com/scripting/1999-project&quot;&gt;1999.io&lt;/a&gt; and &lt;a href=&quot;http://mywebstream.net&quot;&gt;an instance&lt;/a&gt; of &lt;a href=&quot;https://github.com/scripting/river5&quot;&gt;River5&lt;/a&gt;. I note that Little Outliner also works with nodeStorage and &lt;a href=&quot;https://github.com/scripting/appServer&quot;&gt;Dave's new appServer&lt;/a&gt;." created="Fri, 30 Apr 2021 14:49:36 GMT"/>
+				<outline text="Another VM hosts an instance of Fargo that serves &lt;a href=&quot;http://webnotes.frankmcpherson.net/&quot;&gt;the blogs&lt;/a&gt; i wrote using Fargo, which was a outline-based content management platform written by Dave Winer that no longer exists. " created="Fri, 30 Apr 2021 14:53:24 GMT"/>
+				</outline>
+			<outline text="Digital Ocean" created="Fri, 30 Apr 2021 14:44:41 GMT">
+				<outline text="I have one VM here that hosts &lt;a href=&quot;https://fedwiki.frankmcpherson.net&quot;&gt;my wiki&lt;/a&gt;" created="Fri, 30 Apr 2021 14:55:02 GMT"/>
+				</outline>
+			</outline>
+		<outline text="Retired Tech" created="Fri, 11 Sep 2020 18:34:54 GMT" collapse="true">
+			<outline text="iPad Pro 10.5" created="Fri, 17 Jul 2020 13:33:14 GMT" collapse="true">
+				<outline text="Tablet, runs iPadOS 14. My main work tablet, I use this and the Apple Pencil to write notes in OneNote throughout the work day.  " created="Fri, 17 Jul 2020 13:36:12 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/ipad-pro-105&quot;&gt;Wiki page&lt;/a&gt;" created="Mon, 03 Aug 2020 19:23:05 GMT"/>
+				<outline text="Relevant blog posts" created="Mon, 03 Aug 2020 19:24:26 GMT" collapse="true">
+					<outline text="Out of box experience" created="Mon, 03 Aug 2020 19:24:31 GMT" type="link" url="http://writing.frankmcpherson.org/2017/06/17/myIpadProOutOfBoxExperience.html"/>
+					</outline>
+				</outline>
+			<outline text="Google Pixel 2" created="Fri, 17 Jul 2020 13:32:34 GMT" collapse="true">
+				<outline text="Smartphone, runs Android 10, currently running Android 11 beta" created="Fri, 17 Jul 2020 13:34:31 GMT"/>
+				<outline text="&lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/pixel-2&quot;&gt;Wiki page&lt;/a&gt;" created="Mon, 03 Aug 2020 19:18:02 GMT"/>
+				</outline>
+			</outline>
+		<outline text="Benchmarks" created="Tue, 17 Nov 2020 21:48:28 GMT" collapse="true">
+			<outline text="&lt;a href=&quot;https://browser.geekbench.com/user/120423&quot;&gt;Geekbench 5&lt;/a&gt;" created="Tue, 17 Nov 2020 21:48:38 GMT"/>
+			</outline>
+		<outline text="Tech Wish List" created="Fri, 20 Nov 2020 16:45:21 GMT" collapse="true" flBulletedSubs="true">
+			<outline text="Tech things that I wish existed but don’t yet." created="Fri, 20 Nov 2020 16:45:32 GMT"/>
+			<outline text="A seamless way to share keyboard and mouse between a Windows PC and my iPad Air. By seamless I mean that it works like extending a PC display where I specify which side of the PC the iPad is located and when I slide the mouse off the screen in that direction the software automatically activates the mouse and keyboard on the iPad." created="Fri, 20 Nov 2020 16:46:22 GMT"/>
+			</outline>
+		<outline text="Who is Frank McPherson?" created="Sat, 01 Aug 2020 19:33:59 GMT" collapse="true">
+			<outline text="&lt;a href=&quot;https://frankm.org&quot;&gt;Frank McPherson &lt;/a&gt;is a technology consultant at DXC Technology, with 30+ years experience in providing information technology services to financial industry customers. McPherson has written books, magazine articles, and hundreds of blog posts on mobile and personal computing. &lt;a href=&quot;http://frankm.info&quot;&gt;Click here&lt;/a&gt; for more information about what Frank is currently doing. " created="Sat, 01 Aug 2020 19:34:04 GMT"/>
+			</outline>
+		</body>
+	</opml>
