@@ -24,6 +24,7 @@
     "flCliPortEnabled": false,
     "cliPort": 1349,
     "mirrors": {
+        "/projects": "http://storage2.littleoutliner.com/users/frankm/myOutlines/myTechProjects.opml",
         "/test.opml": "http://scripting.com/publicfolder/pageparkTestFiles/rssjs.opml",
         "/test.jpg": "http://scripting.com/publicfolder/pageparkTestFiles/peach.jpg",
         "/test.png": "http://scripting.com/publicfolder/pageparkTestFiles/tree.png",
