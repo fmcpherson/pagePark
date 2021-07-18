@@ -13,7 +13,7 @@
     "legalPathChars": "",
     "flCacheTemplatesLocally": false,
     "urlDefaultMarkdownTemplate": "http://scripting.com/code/pagepark/templates/markdown/template.txt",
-    "urlDefaultOpmlTemplate": "http://scripting.com/code/pagepark/templates/opml/template.txt",
+    "urlDefaultOpmlTemplate": "prefs/opmlTemplate.txt",
     "urlDefaultErrorPage": "http://scripting.com/code/pagepark/prefs/error.html",
     "flUnicasePaths": false,
     "defaultType": "text/html",
