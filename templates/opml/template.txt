@@ -15,37 +15,17 @@
 <script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
 <link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
 
-		<!-- <script src="http://api.nodestorage.io/api.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/api.js"></script>
-
-		<!-- <script src="http://fargo.io/code/shared/emojify.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/emojify.js"></script>
-
-		<!-- <link rel="stylesheet" href="http://fargo.io/code/shared/emojify.css"/> -->
-		<link rel="stylesheet" href="https://pagepark.frankmcpherson.net/code/emojify.css"/>
-
-		<!-- <script src="http://fargo.io/code/markdownConverter.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/markdownConverter.js"></script>
-
-		<!-- <script src="http://fargo.io/cms/dateFormat.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/dateFormat.js"></script>
-
-		<!-- <script src="http://fargo.io/code/browsers/outlinebrowser.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/outlinebrowser.js"></script>
-
-		<!-- <link href="http://fargo.io/code/browsers/outlinebrowser.css" rel="stylesheet" type="text/css"> -->
-		<link href="https://pagepark.frankmcpherson.net/code/outlinebrowser.css" rel="stylesheet" type="text/css">
-
-		<!-- <script src="http://fargo.io/code/shared/xml.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/outlinebrowser.js"></script>
-
-		<!-- <script src="http://fargo.io/code/shared/reader.js"></script> -->
-		<script src="https://pagepark.frankmcpherson.net/code/reader.js"></script>
 		
-		<-- <script src="http://scripting.com/code/pagepark/templates/opml/code.js"></script>
+		<script src="https://pagepark.frankmcpherson.net/code/api.js"></script>
+		<script src="https://pagepark.frankmcpherson.net/code/emojify.js"></script>	
+		<link rel="stylesheet" href="https://pagepark.frankmcpherson.net/code/emojify.css"/>
+		<script src="https://pagepark.frankmcpherson.net/code/markdownConverter.js"></script>
+		<script src="https://pagepark.frankmcpherson.net/code/dateFormat.js"></script>
+		<script src="https://pagepark.frankmcpherson.net/code/outlinebrowser.js"></script>
+		<link href="https://pagepark.frankmcpherson.net/code/outlinebrowser.css" rel="stylesheet" type="text/css">
+		<script src="https://pagepark.frankmcpherson.net/code/outlinebrowser.js"></script>
+		<script src="https://pagepark.frankmcpherson.net/code/reader.js"></script>
 		<script src="https://pagepark.frankmcpherson.net/code/code.js"></script>
-
-		<!-- <link href="http://scripting.com/code/pagepark/templates/opml/styles.css" rel="stylesheet" type="text/css"> -->
 		<link href="https://pagepark.frankmcpherson.net/code/styles.css" rel="stylesheet" type="text/css">
 		
 		<!-- Facebook metadata -->
