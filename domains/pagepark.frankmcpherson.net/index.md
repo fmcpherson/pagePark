@@ -22,11 +22,22 @@ selected the smallest Basic container.
 
 One of the features of pagePark is that it knows how to serve a variety of different file formats. For example, I am writing and storing this page in markdown but if you view source you will see the HTML code that pagePark has generated so that this page displays in your web browser nicely.
 
-Pagepark also does this for the outline file format, OPML. Unfortunately, if you try to open one from this server, such as [http://pagepark.frankmcpherson.net/test.opml](http://pagepark.frankmcpherson.net/test.opml) you will find that the page does not display in your web browser. If you open the Console in Developer Tools in Chrome you will see several mixed content errors, which are caused by script sources being requested with sites via http rather https, for example http://fargo.io/code/browsers/outlinebrowser.js. 
+Pagepark also does this for the outline file format, OPML. To render an OPML an OPML file pagePark generates the HTML using a template file that contains several script source entires that have URLS using http. Because Digital Ocean app platform automatically deploys apps with https the result of the default configuration is that most browsers will not render the OPML because of mix of secure and non-secure content. 
 
 The browser co's enforcement of HTTPS is rearing its head here.  If you view source you see Pagepark is dynamically generating HTML for OPML files that includes Javascript sources from "non-secure" HTTP sites, and browsers are no longer displaying non-secure content by default. Chrome, Edge, and Firefox do not provide an obvious way for a user tell it to display non-secure content. 
 
 For now, in Chrome, one can click the lock to the left of the URL, then click Site settings, scroll down to Insecure content and change it from Block(default), to Allow. At this the browser will display a "Not secure" Indicator to the left of the URL. Most likely Google will remove this ability in the future and the other browser companies will follow suite.
+
+As an experiment I set out to see if I could configure a deployment of pagePark on Digital Ocean platform that gets past the "mixed content" issue, and I did the following:
+
+1. Downloaded all of the non-secure source files to a code subdirectory of pagepark.frankmcpherson.net domains subdirectory. 
+2. I copied the templates directory to /domains/pagepark.frankmcpherson.net
+3. I edited opml/template.txt file so that all the <script src=></script> links used the https://pagepark.frankmcpherson.net/code URL created in step 1 above
+4. I changed the value of urlDefaultOpmlTemplate in config.json to http://pagepark.frankmcpherson.net/templates/opml/template.txt
+
+NOTE: The full URL of urlDefaultOpmlTemplate must be prefixed with http. I originally used https and it did not work, the browser would appear to just continuously try to load. I also tried various forms of local file system directory paths that also did not work, it wasn't until I provided a URL format as shown above that I finally got this instance of pagePark to successfully render an OPML file.
+
+To see the results the tweaks outlined above to make this work, open https://pagepark.frankmcpherson.net/tech.opml and view source in a browser. To see the config.json load https://pagepark.frankmcpherson.net/status
 
 ## Now what?
 
