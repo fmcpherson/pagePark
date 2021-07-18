@@ -22,7 +22,7 @@ selected the smallest Basic container.
 
 One of the features of pagePark is that it knows how to serve a variety of different file formats. For example, I am writing and storing this page in markdown but if you view source you will see the HTML code that pagePark has generated so that this page displays in your web browser nicely.
 
-Pagepark also does this for the outline file format, OPML. Unfortunately, if you try to open one from this server, such as [http://pagepark.frankmcpherson.net/test.opml](http://pagepark.frankmcpherson.net/test.opml) you will find that the page does not display in your web browser.
+Pagepark also does this for the outline file format, OPML. Unfortunately, if you try to open one from this server, such as [http://pagepark.frankmcpherson.net/test.opml](http://pagepark.frankmcpherson.net/test.opml) you will find that the page does not display in your web browser. If you open the Console in Developer Tools in Chrome you will see several mixed content errors, which are caused by script sources being requested with sites via http rather https, for example http://fargo.io/code/browsers/outlinebrowser.js. 
 
 The browser co's enforcement of HTTPS is rearing its head here.  If you view source you see Pagepark is dynamically generating HTML for OPML files that includes Javascript sources from "non-secure" HTTP sites, and browsers are no longer displaying non-secure content by default. Chrome, Edge, and Firefox do not provide an obvious way for a user tell it to display non-secure content. 
 
