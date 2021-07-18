@@ -15,7 +15,7 @@
 <script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
 <link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
 
-<-- Edited the following script sources FM 2021-07-18 -->
+<!-- Edited the following script sources FM 2021-07-18 -->
 		
 		<script src="https://pagepark.frankmcpherson.net/code/api.js"></script>
 		<script src="https://pagepark.frankmcpherson.net/code/emojify.js"></script>	

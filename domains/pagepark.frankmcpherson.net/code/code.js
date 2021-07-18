@@ -152,7 +152,7 @@ function viewTypedOutline (head, theOutline, callback) {
 function everySecond () {
 	}
 function setXmlIcon (urlOpml) {
-	$("#idXmlIcon").html ("<a href=\"" + urlOpml + "\"><img src=\"http://scripting.com/images/xml.gif\" widt=\"36\" height=\"14\"></a>");
+	$("#idXmlIcon").html ("<a href=\"" + urlOpml + "\"><img src=\"https://pagepark.frankmcpherson.net/images/xml.gif\" widt=\"36\" height=\"14\"></a>");
 	console.log ("setXmlIcon: urlOpmlFile == " + urlOpml);
 	}
 
