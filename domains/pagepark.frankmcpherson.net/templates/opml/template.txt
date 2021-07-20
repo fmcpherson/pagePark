@@ -17,17 +17,17 @@
 
 <!-- Edited the following script sources FM 2021-07-18 -->
 		
-		<script src="https://pagepark.frankmcpherson.net/code/api.js"></script>
-		<script src="https://pagepark.frankmcpherson.net/code/emojify.js"></script>	
-		<link rel="stylesheet" href="https://pagepark.frankmcpherson.net/code/emojify.css"/>
-		<script src="https://pagepark.frankmcpherson.net/code/markdownConverter.js"></script>
-		<script src="https://pagepark.frankmcpherson.net/code/dateFormat.js"></script>
+		<script src="https://shared.frankmcpherson.net/code/api.js"></script>
+		<script src="https://shared.frankmcpherson.net/code/emojify.js"></script>	
+		<link rel="stylesheet" href="https://shared.frankmcpherson.net/code/emojify.css"/>
+		<script src="https://shared.frankmcpherson.net/code/markdownConverter.js"></script>
+		<script src="https://shared.frankmcpherson.net/code/dateFormat.js"></script>
 		<script src="https://shared.frankmcpherson.net/code/outlinebrowser.js"></script>
 		<link href="https://shared.frankmcpherson.net/code/outlinebrowser.css" rel="stylesheet" type="text/css">
-		<script src="https://pagepark.frankmcpherson.net/code/outlinebrowser.js"></script>
-		<script src="https://pagepark.frankmcpherson.net/code/reader.js"></script>
-		<script src="https://pagepark.frankmcpherson.net/code/code.js"></script>
-		<link href="https://pagepark.frankmcpherson.net/code/styles.css" rel="stylesheet" type="text/css">
+		<script src="https://shared.frankmcpherson.net/code/outlinebrowser.js"></script>
+		<script src="https://shared.frankmcpherson.net/code/reader.js"></script>
+		<script src="https://shared.frankmcpherson.net/code/code.js"></script>
+		<link href="https://shared.frankmcpherson.net/code/styles.css" rel="stylesheet" type="text/css">
 		
 		<!-- Facebook metadata -->
 			<meta property="og:url" content="[%url%]" />
