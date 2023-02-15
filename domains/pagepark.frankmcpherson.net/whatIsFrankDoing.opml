@@ -1,18 +1,20 @@
 <?xml version="1.0"?>
 <opml version="2.0">
 	<head>
-		<title>What Is Frank Doing?</title>
-		<dateCreated>Thu, 02 Feb 2023 14:57:20 GMT</dateCreated>
-		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<title>What is Frank Doing Now?</title>
 		<longTitle>What is Frank McPherson Doing Now?</longTitle>
 		<description>Look ma! I have a /now page like all the cool kids</description>
-		<urlGlossary>http://drummer.scripting.com/frankm/glossary.opml</urlGlossary>
-		<ownerId>frank.mcpherson@gmail.com</ownerId>
-		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<urInstant>http://instantoutliner.com/i9</urInstant>
+		<urlPublic>http://storage2.littleoutliner.com/users/frankm/myOutlines/whatIsFrankDoing.opml</urlPublic>
+		<dateCreated>Mon, 13 Apr 2020 23:44:22 GMT</dateCreated>
+		<urlGlossary>http://writing.frankmcpherson.org/myOutlines/glossary.opml</urlGlossary>
+		<dateModified>Wed, 15 Feb 2023 23:07:07 GMT</dateModified>
+		<expansionState>3,8</expansionState>
+		<lastCursor>2</lastCursor>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
 		<ownerName>Frank McPherson</ownerName>
-		<dateModified>Wed, 15 Feb 2023 22:05:42 GMT</dateModified>
-		<expansionState>2,5</expansionState>
-		<lastCursor>5</lastCursor>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://storage2.littleoutliner.com:1242/</urlUpdateSocket>
 		</head>
 	<body>
 		<outline text="Who is Frank McPherson?" created="Fri, 10 Apr 2020 19:03:08 GMT">
@@ -22,9 +24,7 @@
 			<outline text="Current &lt;a href=&quot;https://www.breezometer.com/air-quality-map/air-quality/united-states/west-bloomfield&quot;&gt;air quality&lt;/a&gt; at the home office" created="Mon, 19 Jul 2021 13:13:51 GMT"/>
 			<outline text="Even if you see storm clouds &lt;a href=&quot;https://www.window-swap.com/&quot;&gt;the sun is always shinning&lt;/a&gt; and if you need to, go ahead and &lt;a href=&quot;https://lookslikeyouneediceland.com/&quot;&gt;scream&lt;/a&gt;!" created="Wed, 24 Nov 2021 13:51:41 GMT"/>
 			</outline>
-		<outline text="Current status: &lt;a href=&quot;https://www.youtube.com/watch?v=fNFzfwLM72c&quot;&gt;staying alive&lt;/a&gt; day 2,926" created="Fri, 10 Apr 2020 19:00:06 GMT">
-			<outline text="We are back! Drummer has been offline due to Twitter cutting off API access." created="Wed, 15 Feb 2023 16:39:18 GMT"/>
-			</outline>
+		<outline text="Current status: &lt;a href=&quot;https://www.youtube.com/watch?v=fNFzfwLM72c&quot;&gt;staying alive&lt;/a&gt; day 2,926" created="Fri, 10 Apr 2020 19:00:06 GMT"/>
 		<outline text="Notes" created="Fri, 10 Apr 2020 18:59:14 GMT" flBulletedSubs="true">
 			<outline text="I maintain this page in an outliner and headings on the page can be expanded and collapsed. Expanded headings have an upside down wedge, collapsed headings are shown with a wedge pointing to the right that you can expand by clicking the heading or wedge." created="Thu, 22 Apr 2021 14:21:47 GMT"/>
 			<outline text="You can read my most recent posts on &quot;my blog&quot;, which you can also find on &lt;a href=&quot;https://twit.social/@frankm&quot;&gt;my Mastodon feed&lt;/a&gt;. I also have a &lt;a href=&quot;http://daynotes.frankm.info&quot;&gt;daybook&lt;/a&gt; where I narrate my work." created="Fri, 10 Apr 2020 19:02:30 GMT"/>
@@ -32,11 +32,12 @@
 			<outline text="I've created a separate outline for Technology That I Use, which you can access via &lt;a href=&quot;http://tech.frankm.info&quot;&gt;tech.frankm.info&lt;/a&gt;. I also have an outline of notes for my major personal projects that can be accessed via &lt;a href=&quot;http://projects.frankm.info&quot;&gt;projects.frankm.info&lt;/a&gt;." created="Tue, 20 Oct 2020 16:04:48 GMT"/>
 			</outline>
 		<outline text="What Have I Done Recently" created="Wed, 15 Jun 2022 20:10:56 GMT">
-			<outline text="I have moved this outline to Drummer and updated the URL so that it forwards to the correct site." created="Thu, 02 Feb 2023 15:22:48 GMT"/>
 			<outline text="I completed the 162 mile part 1 of the Virginia segment of the Appalachian Trail in the &lt;a href=&quot;https://www.walkthedistanceapp.com&quot;&gt;Walk The Distance app&lt;/a&gt; and I have now walked the equivalent of 28% (568.5 miles) of the Appalachian Trail." created="Fri, 16 Dec 2022 16:42:27 GMT" type="tweet" tweetId="1603793502466412546" tweetUserName="frankm"/>
 			<outline text="I created a Mastodon account on TWiT.social that one can follow via &lt;a href=&quot;https://twit.social/@frankm&quot;&gt;this profile page&lt;/a&gt;. There is Mastodon address for my micro.blog, which one can find and follow via the Fediverse: @frankm@frankmcpherson.blog. " created="Tue, 08 Nov 2022 15:39:17 GMT"/>
 			<outline text="I found out that the original &lt;a href=&quot;https://en.wikipedia.org/wiki/Surface_Duo&quot;&gt;Microsoft Surface Duo&lt;/a&gt; was on sale at Woot for $279 and decided to buy one in order to play with a dual screen device. I recently installed Android 12L, which is the latest version of Android optimized for &quot;large screen&quot; devices. There had been reports of people having problems with this version of Android, but so far I am not seeing those problems." created="Mon, 07 Nov 2022 15:13:08 GMT"/>
 			<outline text="Received the new Pixel Watch and started wearing it today. Now I am re-learning the Fitbit app. I've added an entry to the Every Day Tech section of &lt;a href=&quot;http://tech.frankm.info&quot;&gt;my personal technology outline&lt;/a&gt; for the Pixel Watch." created="Fri, 14 Oct 2022 14:00:38 GMT"/>
+			<outline text="Built an instance of &lt;a href=&quot;https://kasmweb.com/&quot;&gt;Kasm Workspaces&lt;/a&gt; in a LXC container running in Proxmox" created="Wed, 12 Oct 2022 12:50:50 GMT"/>
+			<outline text="Repaired &lt;a href=&quot;http://oldschool.scripting.com/frankm/2022/08/31.html&quot;&gt;a boot problem&lt;/a&gt; with my Raspberry Pi server. " created="Wed, 31 Aug 2022 21:52:15 GMT"/>
 			</outline>
 		<outline text="What I Am Learning" created="Fri, 10 Apr 2020 18:58:04 GMT">
 			<outline text="As much as I can about &lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/covid-19&quot;&gt;COVID-19&lt;/a&gt; " created="Fri, 10 Apr 2020 18:58:18 GMT" collapse="true">
@@ -62,16 +63,13 @@
 			<outline text="See &lt;a href=&quot;https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/site-index&quot;&gt;the site index&lt;/a&gt; on my wiki for other topics that I am learning." created="Sat, 08 Aug 2020 16:51:50 GMT"/>
 			</outline>
 		<outline text="What I Am Reading" created="Fri, 10 Apr 2020 18:58:46 GMT" isComment="false" flBulletedSubs="true">
+			<outline text="&lt;a href=&quot;https://micro.blog/books/9780664267315&quot;&gt;Journey To The Common Good&lt;/a&gt; by Walter Brueggemann" created="Fri, 27 Jan 2023 18:43:38 GMT"/>
 			<outline text="&lt;a href=&quot;https://micro.blog/books/9780190900908&quot;&gt;How the South Won the Civil War: Oligarchy, Democracy, and the Continuing Fight for the Soul of America&lt;/a&gt; by Heather Cox Richardson" created="Thu, 05 Jan 2023 13:57:48 GMT"/>
 			<outline text="&lt;a href=&quot;http://radio3.io/users/frankm/&quot;&gt;Links&lt;/a&gt; to what I am reading on the web" created="Fri, 10 Apr 2020 18:59:01 GMT"/>
 			<outline text="&lt;a href=&quot;https://frankmcpherson.blog/reading/&quot;&gt;See also a list&lt;/a&gt; books I have read, finished reading, and want to read on my blog." created="Wed, 12 May 2021 18:53:48 GMT"/>
 			</outline>
 		<outline text="Books That I Have Read " created="Fri, 10 Apr 2020 19:11:28 GMT" collapse="true">
-			<outline text="&lt;a href=&quot;https://micro.blog/books/9780664267315&quot;&gt;Journey To The Common Good&lt;/a&gt; by Walter Brueggemann" created="Fri, 27 Jan 2023 18:43:38 GMT" type="outline">
-				<outline text="Finished reading on January 29, 2023" created="Thu, 02 Feb 2023 21:32:34 GMT"/>
-				<outline text="“I believe it is impossible to overstate the defining nature of the empire of force among us, if empire is understood as a political, economic, military, ideological practice of self-security and control. It is not clear that life can be construed beyond empire; but the poets have to try. The poets, because they are poets, never arrive there, for their poetry would then become program. That, however, does not render the poetry as a failure or as an irrelevance. It only affirms that alternatives to the lethal reductionism of empire require imagination and courage and staying power. In that ancient world, it was required that old Jerusalem be relinquished and new Jerusalem be undertaken. It is no less required now that there be relinquishing and undertaking.”" created="Thu, 02 Feb 2023 21:35:44 GMT"/>
-				</outline>
-			<outline text="&lt;a href=&quot;https://micro.blog/books/9781506448213&quot;&gt;One Coin Found&lt;/a&gt; by Emmy Kegler" created="Tue, 17 Jan 2023 15:53:19 GMT" type="outline">
+			<outline text="&lt;a href=&quot;https://micro.blog/books/9781506448213&quot;&gt;One Coin Found&lt;/a&gt; by Emmy Kegler" created="Tue, 17 Jan 2023 15:53:19 GMT">
 				<outline text="Finished reading on January 16, 2023" created="Tue, 17 Jan 2023 15:53:51 GMT"/>
 				<outline text="I read this book in two days. It is a memoir of a queer ELCA pastor that describes how she found who she is. " created="Tue, 17 Jan 2023 15:54:02 GMT"/>
 				</outline>
