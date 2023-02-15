@@ -7,15 +7,12 @@
 		<longTitle>What is Frank McPherson Doing Now?</longTitle>
 		<description>Look ma! I have a /now page like all the cool kids</description>
 		<urlGlossary>http://drummer.scripting.com/frankm/glossary.opml</urlGlossary>
-		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
-		<ownerName>Frank McPherson</ownerName>
 		<ownerId>frank.mcpherson@gmail.com</ownerId>
 		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
-		<dateModified>Wed, 15 Feb 2023 16:40:15 GMT</dateModified>
-		<expansionState>2</expansionState>
-		<lastCursor>2</lastCursor>
-		<flPublic>true</flPublic>
-		<urlPublic>https://drummer.land/frank.mcpherson@gmail.com/whatIsFrankDoing.opml</urlPublic>
+		<ownerName>Frank McPherson</ownerName>
+		<dateModified>Wed, 15 Feb 2023 22:05:42 GMT</dateModified>
+		<expansionState>2,5</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="Who is Frank McPherson?" created="Fri, 10 Apr 2020 19:03:08 GMT">
