@@ -1,5 +1,5 @@
  { 
-  "urlOpmlTemplate": "http://localhost/template.txt",
+  "urlOpmlTemplate": "https://pagepark.onrender.com/template.txt",
   "mirrors": {
     "/projects.opml": "http://storage2.littleoutliner.com/users/frankm/myOutlines/myTechProjects.opml",
     "/myStatus.opml": "https://drummer.land/frank.mcpherson@gmail.com/whatIsFrankDoing.opml",
