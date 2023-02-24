@@ -26,8 +26,8 @@
 		<script src="//s3.amazonaws.com/fargo.io/code/shared/xml.js"></script>
 		<script src="//s3.amazonaws.com/fargo.io/code/shared/reader.js"></script>
 		
-		<script src="//s3.amazonaws.com/fargo.io/code/pagepark/templates/opml/code.js"></script>
-		<link href="//s3.amazonaws.com/fargo.io/code/pagepark/templates/opml/styles.css" rel="stylesheet" type="text/css">
+		<script src="//s3.amazonaws.com/scripting.com/code/pagepark/templates/opml/code.js"></script>
+		<link href="//s3.amazonaws.com/scripting.com/code/pagepark/templates/opml/styles.css" rel="stylesheet" type="text/css">
 		
 		<!-- Facebook metadata -->
 			<meta property="og:url" content="[%url%]" />
