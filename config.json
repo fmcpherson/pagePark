@@ -13,7 +13,7 @@
     "legalPathChars": "",
     "flCacheTemplatesLocally": false,
     "urlDefaultMarkdownTemplate": "http://scripting.com/code/pagepark/templates/markdown/template.txt",
-    "urlDefaultOpmlTemplate": "http://scripting.com/code/pagepark/templates/opml/template.txt",
+    "urlDefaultOpmlTemplate": "https://pagepark.onrender.com/template.txt,
     "urlDefaultErrorPage": "http://scripting.com/code/pagepark/prefs/error.html",
     "flUnicasePaths": false,
     "defaultType": "text/html",
@@ -23,6 +23,7 @@
     "flRunPersistentScripts": false,
     "flCliPortEnabled": false,
     "cliPort": 1349,
+    "defaultDomanFolderName": "default",
     "mirrors": {
         "/projects.opml": "http://storage2.littleoutliner.com/users/frankm/myOutlines/myTechProjects.opml",
         "/test.opml": "http://scripting.com/publicfolder/pageparkTestFiles/rssjs.opml",
@@ -32,5 +33,5 @@
         "/test.json": "http://scripting.com/publicfolder/pageparkTestFiles/wodemo.json",
         "/test.txt": "http://scripting.com/publicfolder/pageparkTestFiles/applejoke.txt",
         "/test.md": "http://scripting.com/publicfolder/pageparkTestFiles/test.md"
-      }
+    }
 }
