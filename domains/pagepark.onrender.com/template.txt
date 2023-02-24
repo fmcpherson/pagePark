@@ -50,7 +50,7 @@
 	<body>
 		<div class="divPageBody">
 			<div class="divOutlineContainer" id="idOutlineContainer" style="display: none;">
-				<div class="divXmlIcon" id="idXmlIcon"></div>
+				<!-- Comment out due to mixed access <div class="divXmlIcon" id="idXmlIcon"></div> -->
 				<div class="divLastUpdate"><b>Last update</b>: <span id="idWhenLastUpdate"></span>.</div>
 				<div class="divOutlineTitle" id="idOutlineTitle">
 					</div>
