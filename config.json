@@ -26,6 +26,8 @@
     "defaultDomanFolderName": "default",
     "mirrors": {
         "/projects.opml": "http://storage2.littleoutliner.com/users/frankm/myOutlines/myTechProjects.opml",
+        "/hello.opml": "https://drummer.land/frank.mcpherson@gmail.com/helloWorld.opml",
+        "/myStatus.opml": "https://drummer.land/frank.mcpherson@gmail.com/whatIsFrankDoing.opml",
         "/test.opml": "http://scripting.com/publicfolder/pageparkTestFiles/rssjs.opml",
         "/test.jpg": "http://scripting.com/publicfolder/pageparkTestFiles/peach.jpg",
         "/test.png": "http://scripting.com/publicfolder/pageparkTestFiles/tree.png",
