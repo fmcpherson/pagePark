@@ -1,6 +1,13 @@
+NOTE: This repo is a fork of scripting/pagePark for the purposes of provisioning instances on DigitalOcean.com and Render.com. 
+The code and domains directory were added by me. Code is no longer needed. Domains is needed to test pagePark's hosting of content. 
+
+The config.json file has been edited to point to an edited OPML template and to mirror public OPML files to provide HTTPS access to them.
+
+The following was written by the developer, Dave Winer. 
+
 # PagePark 
 
-I wrote  this simple HTTP server to park domains I've bought but not yet used. 
+Dave Winer wrote  this simple HTTP server to park domains I've bought but not yet used. 
 
 Then I kept going and added all the features I want to help me manage my own websites, far beyond just parking them. I liked the name so I kept it. Think of it as a nice park where you keep your pages. ;-)
 
