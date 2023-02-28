@@ -25,15 +25,10 @@
     "cliPort": 1349,
     "defaultDomanFolderName": "default",
     "mirrors": {
-        "/projects.opml": "http://storage2.littleoutliner.com/users/frankm/myOutlines/myTechProjects.opml",
+        "/projects.opml": "https://drummer.land/frank.mcpherson@gmail.com/MyTechProjects.opml",
         "/hello.opml": "https://drummer.land/frank.mcpherson@gmail.com/helloWorld.opml",
         "/myStatus.opml": "https://drummer.land/frank.mcpherson@gmail.com/whatIsFrankDoing.opml",
-        "/test.opml": "http://scripting.com/publicfolder/pageparkTestFiles/rssjs.opml",
-        "/test.jpg": "http://scripting.com/publicfolder/pageparkTestFiles/peach.jpg",
-        "/test.png": "http://scripting.com/publicfolder/pageparkTestFiles/tree.png",
-        "/test.xml": "http://scripting.com/publicfolder/pageparkTestFiles/davetwitterfeed.xml",
-        "/test.json": "http://scripting.com/publicfolder/pageparkTestFiles/wodemo.json",
-        "/test.txt": "http://scripting.com/publicfolder/pageparkTestFiles/applejoke.txt",
-        "/test.md": "http://scripting.com/publicfolder/pageparkTestFiles/test.md"
+        "/tech.opml": "https://drummer.land/frank.mcpherson@gmail.com/techThatIUse.opml",
+        "/books.opml": "https://drummer.land/frank.mcpherson@gmail.com/booksRead.opml"
     }
 }
